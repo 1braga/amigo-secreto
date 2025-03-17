@@ -10,5 +10,5 @@ Desenvolvimento de uma aplicação para sorteio aleatório de uma lista de amigo
 - Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 - Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 ## Acesso ao projeto
-**git clone https://github.com/1braga/amigo-secreto.git**
-**cd amigo-secreto**
+git clone https://github.com/1braga/amigo-secreto.git
+cd amigo-secreto
